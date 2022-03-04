@@ -1,5 +1,5 @@
 # Race-Judgement-System
-This program stores the data obtained from races and performs various operations on the data to obtain useful information.
+The program stores the data obtained from races and performs various operations on the data to obtain useful information.
 
 Following is some info about the input format, and the functionality of the implemented functions:
 
